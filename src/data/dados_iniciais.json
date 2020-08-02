@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Conquistas De Times",
+      "link": "https://www.youtube.com/watch?v=Tj9vqyaus1I",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=QYuSRiEJnxI"
+      },
+      "videos": [
+        {
+          "titulo": "PentaCampeonato",
+          "url": "https://www.youtube.com/watch?v=6RFu-SYt-L8&t=4s"
+        },{
+          "titulo": "Champions Real Madri 2018",
+          "url": "https://www.youtube.com/watch?v=1Nx2nlELk0M"
+        },{
+          "titulo": "Bicampeonato do Flamengo",
+          "url": "https://www.youtube.com/watch?v=LhyOlpEGLLo"
+        },{
+          "titulo": "Milan Champions",
+          "url": "https://www.youtube.com/watch?v=kUrwGLrDWds"
+        },{
+          "titulo": "Champions Barcelona",
+          "url": "https://www.youtube.com/watch?v=7ITFfw0lNDk"
+        },{
+          "titulo": "Titulo Champions Porto",
+          "url": "https://www.youtube.com/watch?v=BWMdd1dRbTw&t=46s"
+        }
+      ]
+    },
+    {
+      "titulo": " Craques",
+      "cor": "#00C86F",
+      "link_extra": {
+      },
+      "videos": [
+        {
+          "titulo": "Ronaldinho Gaucho - ShowMan",
+          "url": "https://www.youtube.com/watch?v=tTIZ29NjPqA"
+        },
+        {
+          "titulo": "Romario - O Cara",
+          "url": "https://www.youtube.com/watch?v=Wd57vQz17v8"
+        },
+        {
+          "titulo": "Ronaldo - O Fenomeno",
+          "url": "https://www.youtube.com/watch?v=f4hXI3-m4Yg"
+        },
+        {
+          "titulo": "Zidane - O Maestro",
+          "url": "https://www.youtube.com/watch?v=j4jfxEEbJMY"
+        }, 
+        {
+          "titulo": "Messi - 6 vezes o Melhor",
+          "url": "https://www.youtube.com/watch?v=ojb1wnhvDls"
+        }, 
+        {
+          "titulo": "Cristiano Ronaldo - Robozão",
+          "url": "https://www.youtube.com/watch?v=eE1NEt7jyA4"
+        }
+      ]
+    },
+    {
+      "titulo": "Conquistas De Seleções",
+      "cor": "#9cd33b",
+      "link_extra": {
+       
+      },
+      "videos": [
+        {
+          "titulo": "Medalha de Ouro do Brasil",
+          "url": "https://www.youtube.com/watch?v=3eLakTVI224"
+        },
+        {
+          "titulo": "Portugla Eurocopa - 2016",
+          "url": "https://www.youtube.com/watch?v=mJK_nCcZcEs"
+        },
+        {
+          "titulo": "Italia - 2006 Titulo Mundial",
+          "url": "https://www.youtube.com/watch?v=OPDnvUVdZ28"
+        },
+        {
+          "titulo": "França 2018 - Bicampeonato",
+          "url": "https://www.youtube.com/watch?v=GdgJ8YkjeLo"
+        },
+        {
+          "titulo": "Espanha 2010 - 1º Título Mundial",
+          "url": "https://www.youtube.com/watch?v=1_kiHlzpgTk"
+        }
+      ]
+    },
+    {
+      "titulo": "Mundias de Clubes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Real Madri - 2017",
+          "url": "https://www.youtube.com/watch?v=-ld6eFZn3iY"
+        },
+        {
+          "titulo": "Inter - 2006",
+          "url": "https://www.youtube.com/watch?v=c-Xo9wWZsmY"
+        },
+        {
+          "titulo": "Flamengo - 1981",
+          "url": "https://www.youtube.com/watch?v=IwymO6Moupg"
+        },
+        {
+          "titulo": "São Paulo - 1993",
+          "url": "https://www.youtube.com/watch?v=xaLZlhtM1K8"
+        },
+        {
+          "titulo": "Barcelona - 2015",
+          "url": "https://www.youtube.com/watch?v=eB03Abwwtro"
+        },
+        {
+          "titulo": "Corinthians- 2010",
+          "url": "https://www.youtube.com/watch?v=9fD5YrKYDRM"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
