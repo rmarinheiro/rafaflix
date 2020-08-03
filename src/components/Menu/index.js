@@ -4,17 +4,18 @@ import RafaFlix from '../../assets/imagem/RafaFlix.png';
 import './menu.css';
 import Button from '../components/Button';
 //import ButtonLink from '../components/ButtonLink';
+import { Link } from 'react-router-dom';
 
 
 function Menu(){
     
     return(
         <nav className="Menu">
-            <a href="/">
+            <Link to="/">
                 <img className="RafaFlix" src={RafaFlix} alt="RafaFlix"/>
-            </a>
+            </Link>
 
-        <Button as="a" className="ButtonLink" href="/">
+        <Button as={Link} className="ButtonLink" to="/cadastro/video">
             Novo Vídeo
         </Button>
     </nav>
