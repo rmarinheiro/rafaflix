@@ -137,32 +137,34 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Premio Buskas",
+      "cor": "brown",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Wendel Lira - 2015",
+          "url": "https://www.youtube.com/watch?v=aIaucjl_eqc"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Neymar - 2011 ",
+          "url": "https://www.youtube.com/watch?v=moKF34zcSsI"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Mohd Faiz Subri",
+          "url": "https://www.youtube.com/watch?v=WEVPHXMiSTw"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Ibrahimovic - 2013",
+          "url": "https://www.youtube.com/watch?v=RDsxKXa0PbA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Mohamed Salah - 2018",
+          "url": "https://www.youtube.com/watch?v=1RDPwUR7AIo"
+        },
+        {
+          "titulo": "Jamess Rodrigues - 2014",
+          "url": "https://www.youtube.com/watch?v=cAJqW_E4WYc"
         }
       ]
     },

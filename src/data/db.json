@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Gols Inesqueciveis",
+            "descricao":"Gols Marcantes",
+            "cor":"#ffff"
+            },
+             {
+                "id": 2,
+                "nome": "Grandes Jogos",
+                "descricao":"Jogos Marcantes",
+                "cor":"#ffff"
+        }
+    ]
+}
